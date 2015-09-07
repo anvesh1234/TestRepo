@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello edit in master
+=======
+hello jyothi kiran
+>>>>>>> develop
